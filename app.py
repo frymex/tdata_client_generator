@@ -1,3 +1,1 @@
-import os
-
-os.system('python telegram')
+# устаревший метод, используйте python telegram
